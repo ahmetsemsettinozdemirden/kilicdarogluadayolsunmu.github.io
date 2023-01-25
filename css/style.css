@@ -1,0 +1,14 @@
+html,
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+}
+body {
+  background-color: #000000;
+  text-align: center;
+}
+
+body.hayir {
+  background: url(../img/hayir.png) center center #da362e no-repeat;
+}
